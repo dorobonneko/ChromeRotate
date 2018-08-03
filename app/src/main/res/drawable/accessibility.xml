@@ -6,4 +6,4 @@
     android:canRetrieveWindowContent="true"
     android:canRequestFilterKeyEvents="false"
 	android:canPerformGestures="false"
-	android:packageNames="com.android.chrome,com.chrome.dev,com.chrome.beta,com.chrome.canary"/>
+	android:packageNames="com.android.chrome,com.chrome.dev,com.chrome.beta,com.chrome.canary,com.yandex.browser"/>
